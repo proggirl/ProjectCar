@@ -1,0 +1,34 @@
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.exe
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.deps.json
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.json
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.dev.json
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.dll
+D:\C#\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.pdb
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.AssemblyReference.cache
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.Form1.resources
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.GenerateResource.cache
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfoInputs.cache
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfo.cs
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.CoreCompileInputs.cache
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.dll
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.pdb
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.genruntimeconfig.cache
+D:\C#\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.Properties.Resources.resources
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.exe
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.deps.json
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.json
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.dev.json
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.dll
+D:\C#\PracticeQuestions 2\bin\Debug\netcoreapp3.1\PracticeQuestions.pdb
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.AssemblyReference.cache
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.Form1.resources
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.Properties.Resources.resources
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.GenerateResource.cache
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfoInputs.cache
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfo.cs
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.CoreCompileInputs.cache
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.dll
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.pdb
+D:\C#\PracticeQuestions 2\obj\Debug\netcoreapp3.1\PracticeQuestions.genruntimeconfig.cache
